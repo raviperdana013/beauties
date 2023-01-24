@@ -1,0 +1,1 @@
+Data : donedone2022-05-15 08:55:25donedone Transaction order_id: 314693901 successfully transfered using echannel
